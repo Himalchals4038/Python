@@ -1,18 +1,32 @@
 {
   "python.pythonPath": "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
   "cSpell.words": [
+    "Anish",
     "Anuj",
     "Arun",
+    "colorama",
+    "dateutil",
+    "Dayal",
     "Gurgaon",
     "hiscore",
     "HPCL",
+    "itsdangerous",
+    "Jasprit",
+    "Manan",
     "Mohan",
+    "myprojectenv",
+    "numpy",
     "Payal",
     "playsound",
+    "pytz",
+    "Rohan",
     "Sargam",
     "Tatkal",
     "Tejas",
+    "tzdata",
     "Vaishali",
-    "Vijay"
+    "Vignesh",
+    "Vijay",
+    "Werkzeug"
   ]
 }
